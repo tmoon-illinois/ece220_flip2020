@@ -1,0 +1,11 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LOOP              3009
+//	ZERO              300C
+//	VAL1              3013
+//	VAL2              3014
+//	COUNT             3015
+//	ASC_ZERO          3016
+
