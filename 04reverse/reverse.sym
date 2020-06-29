@@ -1,0 +1,17 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	REVERSE           3004
+//	LOOP              3009
+//	SWAP              3016
+//	ADDR_A            301F
+//	ADDR_B            3020
+//	SAVER0_REV        3021
+//	SAVER1_REV        3022
+//	SAVER2_REV        3023
+//	SAVER3_REV        3024
+//	SAVER7_REV        3025
+//	SAVER2_SWAP       3026
+//	SAVER3_SWAP       3027
+

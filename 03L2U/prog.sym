@@ -1,0 +1,18 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	L2U               3003
+//	LOOP              300B
+//	NEXTCHAR          3013
+//	NULL              3015
+//	MyStr             301B
+//	NEG_a             3022
+//	DIFF_z            3023
+//	DIFF_L2U          3024
+//	SAVER1_L2U        3025
+//	SAVER2_L2U        3026
+//	SAVER3_L2U        3027
+//	SAVER4_L2U        3028
+//	SAVER5_L2U        3029
+
